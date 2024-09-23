@@ -1,0 +1,54 @@
+Using user-defined memory regions.
+Num Enb Low Addr   High Addr  Attrs 
+0   y  	0x00000000 0x00020000 flash blocksize 0x800 nocache 
+1   y  	0x00020000 0x0fe00000 rw nocache 
+2   y  	0x0fe00000 0x0fe00800 flash blocksize 0x800 nocache 
+3   y  	0x0fe00800 0x0fe04000 rw nocache 
+4   y  	0x0fe04000 0x0fe04800 flash blocksize 0x800 nocache 
+5   y  	0x0fe04800 0x100000000 rw nocache 
+r0             0x14b98             84888
+r1             0x0                 0
+r2             0x0                 0
+r3             0x200007c8          536872904
+r4             0x200007e8          536872936
+r5             0x40006000          1073766400
+r6             0x0                 0
+r7             0x20002938          536881464
+r8             0x1770              6000
+r9             0x200002b0          536871600
+r10            0x1fff8000          536838144
+r11            0x0                 0
+r12            0xb                 11
+sp             0x20007fc8          0x20007fc8
+lr             0x9d9b              40347
+pc             0x90b4              0x90b4
+xpsr           0x61000000          1627389952
+msp            0x0                 0x0
+psp            0x0                 0x0
+primask        0x0                 0
+basepri        0x0                 0
+faultmask      0x0                 0
+control        0x0                 0
+r0             0x14b98             84888
+r1             0x0                 0
+r2             0x0                 0
+r3             0x200007c8          536872904
+r4             0x200007e8          536872936
+r5             0x40006000          1073766400
+r6             0x0                 0
+r7             0x20002938          536881464
+r8             0x1770              6000
+r9             0x200002b0          536871600
+r10            0x1fff8000          536838144
+r11            0x0                 0
+r12            0xb                 11
+sp             0x20007fc8          0x20007fc8
+lr             0x9d9b              40347
+pc             0x90b4              0x90b4
+xpsr           0x61000000          1627389952
+msp            0x0                 0x0
+psp            0x0                 0x0
+primask        0x0                 0
+basepri        0x0                 0
+faultmask      0x0                 0
+control        0x0                 0
