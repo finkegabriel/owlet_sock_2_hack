@@ -1,0 +1,16 @@
+Script started on Wed Sep 18 10:02:57 2024
+command: screen /dev/tty.usbserial-A900D3HU 115200
+[?1049h[!p[?3;4l[4l>[4l[?1h=[0m(B[1;25r[H[2J[H[2J[?1l>[25;1H
+[?1049l[detached]
+
+Script done on Wed Sep 18 10:06:56 2024
+Script started on Wed Sep 18 10:13:57 2024
+command: screen /dev/tty.usbserial-A900D3HU 115200
+[?1049h[!p[?3;4l[4l>[4l[?1h=[0m(B[1;25r[H[2J[24B[7mCannot open line '/dev/tty.usbserial-A900D3HU' for R/W: Resource busy[27m  [70C[1K[H[24B[7mSorry, could not find a PTY.[27m  [29C[1K[H[?1l>[25;1H
+[?1049l[screen is terminating]
+
+Script done on Wed Sep 18 10:14:03 2024
+Script started on Wed Sep 18 10:14:15 2024
+command: screen /dev/tty.usbserial-A900D3HU 115200
+[?1049h[!p[?3;4l[4l>[4l[?1h=[0m(B[1;25r[H[2J[H[2J
+Script done on Wed Sep 18 10:20:02 2024

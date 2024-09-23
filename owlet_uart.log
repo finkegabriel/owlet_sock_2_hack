@@ -1,0 +1,22 @@
+Script started on Wed Sep 18 09:41:05 2024
+command: screen /dev/tty.usbserial-A900D3HU 115200
+[?1049h[!p[?3;4l[4l>[4l[?1h=[0m(B[1;25r[H[2J[H[2J
+
+bc 2.6.7 03/20/18 19:47:34 ID 64ae899
+500 i mod: bc init done
+510 W mod: log: 3 fault log snapshots saved
+
+
+bc 2.6.7 03/20/18 19:47:34 ID 64ae899
+500 i mod: bc init done
+510 W mod: log: 3 fault log snapshots saved
+1755 i wifi: connecting to SSID CenturyLink8076 sec WPA2_Personal signal -200
+3107 i wifi: Setting AP mode SSID Owlet-a0c9a0712eb4
+
+--> 
+--> 
+--> 
+--> ls
+unrecognized command "ls"
+--> 
+Script done on Wed Sep 18 09:45:06 2024
