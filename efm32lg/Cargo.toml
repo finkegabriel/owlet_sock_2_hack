@@ -1,0 +1,14 @@
+[package]
+name = "efm32lg"
+version = "0.1.0"
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+cortex-m = "0.7"
+cortex-m-rt = "0.7"
+efm32lg230-pac = "0.1"  # Peripheral Access Crate for EFM32LG230
+panic-halt = "0.2"      # Panic handler for embedded
+
+[build-dependencies]
