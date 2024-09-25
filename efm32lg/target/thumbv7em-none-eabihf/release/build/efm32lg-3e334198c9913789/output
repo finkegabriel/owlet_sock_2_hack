@@ -1,0 +1,2 @@
+cargo:rustc-link-search=/Users/sync/code/owlet/owlet_sock_2_hack/efm32lg/target/thumbv7em-none-eabihf/release/build/efm32lg-3e334198c9913789/out
+cargo:rerun-if-changed=memory.x

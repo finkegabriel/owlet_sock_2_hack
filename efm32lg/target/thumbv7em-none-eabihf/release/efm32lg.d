@@ -1,0 +1,1 @@
+/Users/sync/code/owlet/owlet_sock_2_hack/efm32lg/target/thumbv7em-none-eabihf/release/efm32lg: /Users/sync/code/owlet/owlet_sock_2_hack/efm32lg/build.rs /Users/sync/code/owlet/owlet_sock_2_hack/efm32lg/memory.x /Users/sync/code/owlet/owlet_sock_2_hack/efm32lg/src/main.rs

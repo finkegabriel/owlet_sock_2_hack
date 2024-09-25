@@ -13,3 +13,9 @@ panic-halt = "0.2"      # Panic handler for embedded
 
 [package.metadata.cortex-m-rt]
 memory = "memory.x"  # Use memory.x linker script
+
+[profile.release]
+panic = "abort"
+
+[profile.dev]
+panic = "abort"
