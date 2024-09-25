@@ -10,7 +10,7 @@ use panic_halt as _;
 fn main() -> ! {
     // Take ownership of device-specific peripherals
     let dp = pac::Peripherals::take().unwrap();
-    let cp = CorePeripherals::take().unwrap();
+    let _cp = CorePeripherals::take().unwrap();
 
     // Enable the clock for GPIO and USART0 (not UART0)
     let cmu = &dp.CMU;
