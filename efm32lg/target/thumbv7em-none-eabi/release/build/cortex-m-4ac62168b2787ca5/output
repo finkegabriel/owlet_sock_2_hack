@@ -1,0 +1,5 @@
+cargo:rustc-link-lib=static=cortex-m
+cargo:rustc-link-search=/Users/sync/code/owlet/owlet_sock_2_hack/efm32lg/target/thumbv7em-none-eabi/release/build/cortex-m-4ac62168b2787ca5/out
+cargo:rustc-cfg=cortex_m
+cargo:rustc-cfg=armv7m
+cargo:rustc-cfg=armv7em
