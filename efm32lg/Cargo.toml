@@ -11,4 +11,5 @@ cortex-m-rt = "0.7"
 efm32lg230-pac = "0.1"  # Peripheral Access Crate for EFM32LG230
 panic-halt = "0.2"      # Panic handler for embedded
 
-[build-dependencies]
+[package.metadata.cortex-m-rt]
+memory = "memory.x"  # Use memory.x linker script
