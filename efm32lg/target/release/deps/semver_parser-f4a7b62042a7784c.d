@@ -1,0 +1,11 @@
+/home/blujay/owlet_sock_2_hack/efm32lg/target/release/deps/libsemver_parser-f4a7b62042a7784c.rmeta: /home/blujay/.cargo/registry/src/index.crates.io-1cd66030c949c28d/semver-parser-0.7.0/src/lib.rs /home/blujay/.cargo/registry/src/index.crates.io-1cd66030c949c28d/semver-parser-0.7.0/src/version.rs /home/blujay/.cargo/registry/src/index.crates.io-1cd66030c949c28d/semver-parser-0.7.0/src/range.rs /home/blujay/.cargo/registry/src/index.crates.io-1cd66030c949c28d/semver-parser-0.7.0/src/common.rs /home/blujay/.cargo/registry/src/index.crates.io-1cd66030c949c28d/semver-parser-0.7.0/src/recognize.rs
+
+/home/blujay/owlet_sock_2_hack/efm32lg/target/release/deps/libsemver_parser-f4a7b62042a7784c.rlib: /home/blujay/.cargo/registry/src/index.crates.io-1cd66030c949c28d/semver-parser-0.7.0/src/lib.rs /home/blujay/.cargo/registry/src/index.crates.io-1cd66030c949c28d/semver-parser-0.7.0/src/version.rs /home/blujay/.cargo/registry/src/index.crates.io-1cd66030c949c28d/semver-parser-0.7.0/src/range.rs /home/blujay/.cargo/registry/src/index.crates.io-1cd66030c949c28d/semver-parser-0.7.0/src/common.rs /home/blujay/.cargo/registry/src/index.crates.io-1cd66030c949c28d/semver-parser-0.7.0/src/recognize.rs
+
+/home/blujay/owlet_sock_2_hack/efm32lg/target/release/deps/semver_parser-f4a7b62042a7784c.d: /home/blujay/.cargo/registry/src/index.crates.io-1cd66030c949c28d/semver-parser-0.7.0/src/lib.rs /home/blujay/.cargo/registry/src/index.crates.io-1cd66030c949c28d/semver-parser-0.7.0/src/version.rs /home/blujay/.cargo/registry/src/index.crates.io-1cd66030c949c28d/semver-parser-0.7.0/src/range.rs /home/blujay/.cargo/registry/src/index.crates.io-1cd66030c949c28d/semver-parser-0.7.0/src/common.rs /home/blujay/.cargo/registry/src/index.crates.io-1cd66030c949c28d/semver-parser-0.7.0/src/recognize.rs
+
+/home/blujay/.cargo/registry/src/index.crates.io-1cd66030c949c28d/semver-parser-0.7.0/src/lib.rs:
+/home/blujay/.cargo/registry/src/index.crates.io-1cd66030c949c28d/semver-parser-0.7.0/src/version.rs:
+/home/blujay/.cargo/registry/src/index.crates.io-1cd66030c949c28d/semver-parser-0.7.0/src/range.rs:
+/home/blujay/.cargo/registry/src/index.crates.io-1cd66030c949c28d/semver-parser-0.7.0/src/common.rs:
+/home/blujay/.cargo/registry/src/index.crates.io-1cd66030c949c28d/semver-parser-0.7.0/src/recognize.rs:

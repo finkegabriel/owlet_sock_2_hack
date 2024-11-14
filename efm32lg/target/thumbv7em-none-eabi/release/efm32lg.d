@@ -1,0 +1,1 @@
+/home/blujay/owlet_sock_2_hack/efm32lg/target/thumbv7em-none-eabi/release/efm32lg: /home/blujay/owlet_sock_2_hack/efm32lg/build.rs /home/blujay/owlet_sock_2_hack/efm32lg/memory.x /home/blujay/owlet_sock_2_hack/efm32lg/src/main.rs
