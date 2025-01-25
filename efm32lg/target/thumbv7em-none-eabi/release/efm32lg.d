@@ -1,1 +1,1 @@
-/home/blujay/owlet_sock_2_hack/efm32lg/target/thumbv7em-none-eabi/release/efm32lg: /home/blujay/owlet_sock_2_hack/efm32lg/build.rs /home/blujay/owlet_sock_2_hack/efm32lg/memory.x /home/blujay/owlet_sock_2_hack/efm32lg/src/main.rs
+/Users/sync/code/owlet_sock_2_hack/efm32lg/target/thumbv7em-none-eabi/release/efm32lg: /Users/sync/code/owlet_sock_2_hack/efm32lg/build.rs /Users/sync/code/owlet_sock_2_hack/efm32lg/memory.x /Users/sync/code/owlet_sock_2_hack/efm32lg/src/main.rs

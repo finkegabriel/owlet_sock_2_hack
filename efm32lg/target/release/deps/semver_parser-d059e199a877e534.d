@@ -1,0 +1,11 @@
+/Users/sync/code/owlet_sock_2_hack/efm32lg/target/release/deps/libsemver_parser-d059e199a877e534.rmeta: /Users/sync/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-parser-0.7.0/src/lib.rs /Users/sync/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-parser-0.7.0/src/version.rs /Users/sync/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-parser-0.7.0/src/range.rs /Users/sync/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-parser-0.7.0/src/common.rs /Users/sync/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-parser-0.7.0/src/recognize.rs
+
+/Users/sync/code/owlet_sock_2_hack/efm32lg/target/release/deps/libsemver_parser-d059e199a877e534.rlib: /Users/sync/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-parser-0.7.0/src/lib.rs /Users/sync/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-parser-0.7.0/src/version.rs /Users/sync/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-parser-0.7.0/src/range.rs /Users/sync/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-parser-0.7.0/src/common.rs /Users/sync/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-parser-0.7.0/src/recognize.rs
+
+/Users/sync/code/owlet_sock_2_hack/efm32lg/target/release/deps/semver_parser-d059e199a877e534.d: /Users/sync/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-parser-0.7.0/src/lib.rs /Users/sync/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-parser-0.7.0/src/version.rs /Users/sync/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-parser-0.7.0/src/range.rs /Users/sync/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-parser-0.7.0/src/common.rs /Users/sync/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-parser-0.7.0/src/recognize.rs
+
+/Users/sync/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-parser-0.7.0/src/lib.rs:
+/Users/sync/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-parser-0.7.0/src/version.rs:
+/Users/sync/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-parser-0.7.0/src/range.rs:
+/Users/sync/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-parser-0.7.0/src/common.rs:
+/Users/sync/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-parser-0.7.0/src/recognize.rs:

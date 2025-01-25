@@ -1,0 +1,3 @@
+cargo:rustc-link-search=/Users/sync/code/owlet_sock_2_hack/efm32lg/target/debug/build/cortex-m-rt-3c489fd65cb808c2/out
+cargo:rerun-if-changed=build.rs
+cargo:rerun-if-changed=link.x.in
